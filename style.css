@@ -1,0 +1,53 @@
+body{
+    font-size: 30px;
+    background-image: url("bg.jpg");
+}
+div{
+    display: block;
+    width: 320px;
+    padding: 25px;
+    border: 5px solid wheat;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(126, 126, 126,0.5);
+}
+p{
+    color: orange;
+    margin: 10px;
+    font-weight: bold;
+}
+h1{
+    font-size: 25px;
+    color: beige;
+}
+.db{
+    color: orange;
+}
+.gombrend{
+    color: orange;
+}
+.gomb {
+    background-color: beige;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    text-decoration-color: black;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#kiir{
+    color: beige;
+}
+a:visited {
+    color: orange;
+}
+a:hover {
+    color: greenyellow;
+}
+a:active {
+    color: beige;
+}
